@@ -15,7 +15,6 @@ class MyCourse extends StatelessWidget {
             .changeSubjects(course);
       },
       child: Container(
-        
         margin: const EdgeInsets.only(top: 20, left: 20, right: 20),
         width: double.maxFinite,
         height: 70,
